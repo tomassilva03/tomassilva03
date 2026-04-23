@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Tomás&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Porto%2C%20Portugal&descAlignY=58&descSize=18&descColor=aaaaaa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Tomás&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Braga%2C%20Portugal&descAlignY=58&descSize=18&descColor=aaaaaa" />
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
   <a href="https://tomassilva03">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:tomas.reb.silva@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -66,10 +66,10 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tomassilva03/REPO_1">
+  <a href="https://github.com/tomassilva03/portfolio-hyprland">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=REPO_1&theme=dark&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/tomassilva03/REPO_2">
+  <a href="https://github.com/tomassilva03/Virtual-Power-Sim-Racing-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=REPO_2&theme=dark&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
