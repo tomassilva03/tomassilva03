@@ -25,7 +25,7 @@
 ```text
 🏢  Software Developer @ OnVirtualGym
 📍  Porto, Portugal
-💻  Desktop · Backend · Mobile · Web
+💻  Desktop · Backend · Web
 🌱  Currently exploring Next.js & TypeScript
 🎮  iRacing endurance competitor in my free time
 ```
