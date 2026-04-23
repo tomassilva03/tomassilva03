@@ -5,10 +5,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/tomassilva03">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO">
+  <a href="https://tomassilva03">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
@@ -72,11 +72,11 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=dark&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/tomassilva03/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=REPO_1&theme=dark&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=dark&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/tomassilva03/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=REPO_2&theme=dark&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
@@ -85,12 +85,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tomassilva03&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomassilva03&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=tomassilva03&theme=dark&hide_border=true&background=0d1117" />
 </div>
 
 ---
