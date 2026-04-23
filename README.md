@@ -67,10 +67,10 @@
 
 <div align="center">
   <a href="https://github.com/tomassilva03/portfolio-hyprland">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=REPO_1&theme=dark&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=portfolio-hyprland&theme=dark&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/tomassilva03/Virtual-Power-Sim-Racing-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=REPO_2&theme=dark&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=Virtual-Power-Sim-Racing-Website&theme=dark&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
