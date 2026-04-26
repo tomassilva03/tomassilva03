@@ -24,10 +24,8 @@
 
 ```text
 🏢  Software Developer @ OnVirtualGym
-📍  Porto, Portugal
+📍  Braga, Portugal
 💻  Desktop · Backend · Web
-🌱  Currently exploring Next.js & TypeScript
-🎮  iRacing endurance competitor in my free time
 ```
 
 ---
@@ -60,34 +58,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/tomassilva03/portfolio-hyprland">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=portfolio-hyprland&theme=dark&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/tomassilva03/Virtual-Power-Sim-Racing-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomassilva03&repo=Virtual-Power-Sim-Racing-Website&theme=dark&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tomassilva03&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomassilva03&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tomassilva03&theme=dark&hide_border=true&background=0d1117" />
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
